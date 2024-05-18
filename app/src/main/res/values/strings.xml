@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlanetList</string>
+    <string name="randon">RANDON</string>
+    <string name="listar">Listar</string>
+    <string name="lista_de_planetas">Lista de Planetas</string>
+</resources>
